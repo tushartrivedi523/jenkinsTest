@@ -9,7 +9,7 @@ public class RestTemp {
 	@GetMapping("/home")
 	public String getHome()
 	{
-		return " Hi User";
+		return " Hi Tushar Welcome to family!!";
 	}
 
 }
